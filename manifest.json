@@ -1,6 +1,6 @@
 {
-    "name": "my_awesome_namer",
-    "short_name": "my_awesome_namer",
+    "name": "kidney_web_app",
+    "short_name": "kidney_web_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
